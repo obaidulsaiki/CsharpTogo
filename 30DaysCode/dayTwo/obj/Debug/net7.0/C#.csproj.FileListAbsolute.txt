@@ -1,0 +1,15 @@
+F:\UNI ver SITY\C#\bin\Debug\net7.0\C#.exe
+F:\UNI ver SITY\C#\bin\Debug\net7.0\C#.deps.json
+F:\UNI ver SITY\C#\bin\Debug\net7.0\C#.runtimeconfig.json
+F:\UNI ver SITY\C#\bin\Debug\net7.0\C#.dll
+F:\UNI ver SITY\C#\bin\Debug\net7.0\C#.pdb
+F:\UNI ver SITY\C#\obj\Debug\net7.0\C#.csproj.AssemblyReference.cache
+F:\UNI ver SITY\C#\obj\Debug\net7.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+F:\UNI ver SITY\C#\obj\Debug\net7.0\C#.AssemblyInfoInputs.cache
+F:\UNI ver SITY\C#\obj\Debug\net7.0\C#.AssemblyInfo.cs
+F:\UNI ver SITY\C#\obj\Debug\net7.0\C#.csproj.CoreCompileInputs.cache
+F:\UNI ver SITY\C#\obj\Debug\net7.0\C#.dll
+F:\UNI ver SITY\C#\obj\Debug\net7.0\refint\C#.dll
+F:\UNI ver SITY\C#\obj\Debug\net7.0\C#.pdb
+F:\UNI ver SITY\C#\obj\Debug\net7.0\C#.genruntimeconfig.cache
+F:\UNI ver SITY\C#\obj\Debug\net7.0\ref\C#.dll
